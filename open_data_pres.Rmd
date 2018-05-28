@@ -1,0 +1,192 @@
+---
+output: 
+  revealjs::revealjs_presentation:
+    theme: "black"
+    self_contained: false
+    reveal_plugins: ["notes"]
+    reveal_options:
+      overview: true
+      slideNumber: true
+---
+
+## GOVERNMENT OPEN DATA  
+<style>
+.footer {
+    color: white;
+    background: #222;
+    vertical-align: bottom;
+    bottom: 0;
+    text-align: left;
+    width:100%;
+}
+</style>
+**Jason Jones**  
+*Analytics & Innovation Manager*  
+*Guilford County Government*  
+  
+  
+![](excited.gif)
+
+## OUTLINE 
+  
+- Define
+- Past and Present
+- Musings on Future  
+- Your Turn  
+![](punch.gif)
+
+## WHAT IS OPEN DATA?  
+> "Open data means data that is available online, in an open format, with no legal encumbrances on use or reuse, and is available for all to access and download in full without fees or a requirement of registration."  
+
+<div class="footer", style="font-size: 60%;"> 
+Source: Guilford County Open Data Policy
+</div>
+
+## WHAT IS OPEN GOVT?  
+- High levels of transparency
+- Mechanisms for public scrutiny and oversight
+- Emphasis on accountability
+- Increased citizen participation & collaboration
+
+<div class="footer", style="font-size: 60%;">
+Source: https://opensource.com/resources/open-government
+</div>
+
+## THE DISTINCTION IS IMPORTANT  
+- You **CAN** have open data w/out open govt
+- You **CAN NOT** have open govt w/out open data  
+
+![](swanson.gif)  
+The combination of open data & open government will not be the exception, it will be the expectation
+
+## FIRST MENTION  
+>"The term open data appeared for the first time in 1995...about the disclosure of geophysical and environmental data...before being a technical object or political movement, open data was rooted in the praxis of the scientific community. Researchers were the first who perceived the benefit of openness and of sharing of data."
+
+<div class="footer", style="font-size: 60%;">
+Source: http://parisinnovationreview.com/articles-en/a-brief-history-of-open-data
+</div>
+
+## PUBLIC SECTOR EMERGENCE  
+In 2007, some people got together north of San Francisco and decided...  
+
+>"The basic idea is that public data are a common property, in the same way as scientific ideas...directly inspired by the approach and practice of open source, built on three concepts: openness, participation and collaboration."
+
+<div class="footer", style="font-size: 60%;">
+Source: http://parisinnovationreview.com/articles-en/a-brief-history-of-open-data
+</div>
+
+## THANKS OBAMA
+- Signed two presidential memoranda concerning open government
+- Open source culture foundation: transparency, participation, and collaboration  
+
+![](obama.gif)
+
+## THE PRESENT
+- Not as broadly adopted as you would hope
+- Primarily about transparency, less about collaboration
+
+![](map.png)
+
+## THE PRESENT
+- Meaningful implementation is difficult
+- Data skills & literacy gap (internal & external)
+- Most useful data is often most protected
+- All about trust & relationships
+
+![](trust.gif)
+
+## BONUS SLIDE: POPULAR DATA
+<img src="popular_open_data.png", style="width:500px;height:600px;">
+
+## THE FUTURE  
+<div style="column-count: 2;">
+>"...the goal isn’t anymore to change the world through data but to try, more modestly, to modernize public action."
+
+<div style="float: right;">
+![](boom.gif)
+</div>
+
+</div>
+
+<div class="footer", style="font-size: 60%;">
+Source: http://parisinnovationreview.com/articles-en/a-brief-history-of-open-data
+</div>
+
+## BUT HOW?
+- **Joy's Law:** There is cumulatively more knowledge and talent outside of an organization than in it
+- Look towards the sharing economy as a model
+- Shifting towards more **participation and collaboration**
+
+![](share.gif)
+
+## BUT DON'T FORGET
+>"What is measurable isn't the same as what is valuable"  
+
+![](numbers_need_stories.jpeg)  
+Local government will become increasingly responsible for gathering & providing sufficient context
+
+<div class="footer", style="font-size: 60%;">
+Source: https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7
+</div>
+
+## THICK DATA
+>"Thick Data is data brought to light using qualitative, ethnographic research methods that uncover people’s emotions, stories, and models of their world."
+
+![](thick_data.jpeg)
+
+<div class="footer", style="font-size: 60%;">
+Source: https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7
+</div>
+
+## GETTING THERE
+
+![](tde-funnel-grid.png)
+
+<div class="footer", style="font-size: 60%;">
+Source: https://sunlightfoundation.com/2017/09/19/introducing-a-guide-to-tactical-data-engagement/
+</div>
+
+## SHAMELESS PLUG
+![](insight.png)
+
+Link: http://opendata.myguilford.com/
+
+## BUILDING THE FUTURE - WITH YOU!  
+<div style="column-count: 2;">
+We want our data to be:  
+
+- Useful
+- Usable
+- Used  
+
+<div style="float: right;">
+![](simple.gif)
+</div>
+
+</div>
+
+## HOW CAN YOU HELP?  
+I'm so glad you asked!
+
+<div style="column-count: 2;">
+<div style="float: left;">
+![](data_story.png)
+</div>
+
+<div style="float: right:">
+![](story.png)
+</div>
+</div>
+
+<div class="footer", style="font-size: 60%;"> 
+Source: http://stories.datarefuge.org/
+</div>
+
+## THANK YOU SO MUCH!
+</br>
+Email: jjones6@guilfordcountync.gov  
+Office: (336) 641-6078  
+  
+Twitter: @packpridejones  
+
+![](thanks.gif)
