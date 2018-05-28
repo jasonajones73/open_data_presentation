@@ -48,6 +48,8 @@ Source: Guilford County Open Data Policy
 - Emphasis on accountability
 - Increased citizen participation & collaboration
 
+![](permit.gif)
+
 <div class="footer", style="font-size: 60%;">
 Source: https://opensource.com/resources/open-government
 </div>
