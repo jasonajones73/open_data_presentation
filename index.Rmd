@@ -85,7 +85,7 @@ Source: http://www.opendatapolicies.org/browse/
 
 ![](images/permit.gif)
 
-<div class="footer", style="font-size: 60%;">
+<div class="footer", style="font-size: 50%;">
 Source: https://opensource.com/resources/open-government
 </div>
 
