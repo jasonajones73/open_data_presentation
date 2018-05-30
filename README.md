@@ -1,2 +1,5 @@
-# open_data_presentation
-Presentation for Housing Symposium at UNCG
+# Government Open Data
+
+Symposium Workshop: Innovations in Planning for Better Community Housing and Health
+
+Live Presentation: https://jasonajones73.github.io/open_data_presentation/#/government-open-data
