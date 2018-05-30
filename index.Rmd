@@ -51,7 +51,8 @@ Source: http://parisinnovationreview.com/articles-en/a-brief-history-of-open-dat
 
 ## THANKS OBAMA
 - Signed two presidential memoranda concerning open government
-- Open source culture foundation: transparency, participation, and collaboration  
+- Open source culture foundation: transparency, participation, and collaboration 
+- Direct connection/reference to 2007 meeting
 
 ![](images/obama.gif)
 
@@ -59,7 +60,11 @@ Source: http://parisinnovationreview.com/articles-en/a-brief-history-of-open-dat
 - Not as broadly adopted as you would hope
 - Primarily about transparency, less about collaboration
 
-![](images/map.png)
+<img src="images/map.png", style="width:75%;height:75%;">
+
+<div class="footer", style="font-size: 60%;">
+Source: http://www.opendatapolicies.org/browse/
+</div>
 
 ## THE PRESENT
 - Meaningful implementation is difficult
@@ -148,17 +153,20 @@ Source: https://sunlightfoundation.com/2017/09/19/introducing-a-guide-to-tactica
 Link: http://opendata.myguilford.com/
 
 ## BUILDING THE FUTURE - WITH YOU!  
-<div style="column-count: 2;">
+<div class="myrow">
+  <div class="mycolumn">
 We want our data to be:  
 
 - Useful
 - Usable
-- Used  
+- Used 
 
-<div style="float: right;">
-![](images/simple.gif)
-</div>
-
+  </div>
+  <div class="mycolumn">
+  
+  ![](images/simple.gif)
+  
+  </div>
 </div>
 
 ## HOW CAN YOU HELP?  
