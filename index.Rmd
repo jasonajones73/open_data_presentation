@@ -1,6 +1,7 @@
 ---
 output: 
   revealjs::revealjs_presentation:
+    css: styles.css
     theme: "black"
     self_contained: false
     reveal_plugins: ["notes"]
@@ -10,16 +11,6 @@ output:
 ---
 
 ## GOVERNMENT OPEN DATA  
-<style>
-.footer {
-    color: white;
-    background: #222;
-    vertical-align: bottom;
-    bottom: 0;
-    text-align: left;
-    width:100%;
-}
-</style>
 **Jason Jones**  
 *Analytics & Innovation Manager*  
 *Guilford County Government*  
@@ -29,8 +20,8 @@ output:
 
 ## OUTLINE 
   
-- Understand
-- Past and Present
+- Open Data: Past and Present
+- Open Government
 - Musings on Future  
 - Your Turn  
 ![](images/punch.gif)
@@ -39,7 +30,7 @@ output:
 > "Open data means data that is available online, in an open format, with no legal encumbrances on use or reuse, and is available for all to access and download in full without fees or a requirement of registration."  
 
 <div class="footer", style="font-size: 60%;"> 
-Source: Guilford County Open Data Policy
+Source: http://opendata.myguilford.com/dataset/open-data-policy-and-governance/resource/99be58db-5051-44bd-aad0-77fc36b07e5e
 </div>
 
 ## FIRST MENTION  
@@ -101,13 +92,16 @@ Source: https://opensource.com/resources/open-government
 The combination of open data & open government will not be the exception, it will be the expectation
 
 ## THE FUTURE OF OPEN DATA  
-<div style="column-count: 2;">
->"...the goal isn’t anymore to change the world through data but to try, more modestly, to modernize public action."
-
-<div style="float: right;">
-![](images/boom.gif)
-</div>
-
+<div class="myrow">
+  <div class="mycolumn">
+  >"...the goal isn’t anymore to change the world through data but to try, more modestly, to modernize public action."
+  
+  </div>
+  <div class="mycolumn">
+  
+  ![](images/boom.gif)
+  
+  </div>
 </div>
 
 <div class="footer", style="font-size: 60%;">
