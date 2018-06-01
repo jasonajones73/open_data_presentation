@@ -120,6 +120,10 @@ Source: http://parisinnovationreview.com/articles-en/a-brief-history-of-open-dat
 
 ![](images/share.gif)
 
+<div class="footer", style="font-size: 60%;">
+Source: http://elgl.org/2016/03/13/break-it-down-open-data-and-the-sharing-economy/
+</div>
+
 ## BUT DON'T FORGET
 >"What is measurable isn't the same as what is valuable"  
 
