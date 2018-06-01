@@ -118,7 +118,7 @@ Source: http://parisinnovationreview.com/articles-en/a-brief-history-of-open-dat
 - Look towards the sharing economy as a model
 - Shifting towards more **participation and collaboration**
 
-![](images/share.gif)
+<img src="images/share.gif", style="width:50%;height:50%;">
 
 <div class="footer", style="font-size: 60%;">
 Source: http://elgl.org/2016/03/13/break-it-down-open-data-and-the-sharing-economy/
